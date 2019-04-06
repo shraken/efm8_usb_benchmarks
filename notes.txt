@@ -1,0 +1,11 @@
+differences:
+
+USB_CDC_UART_2.c:
+ added COMPutMultiByte
+
+main.c:
+ - removed any peripheral use -- got rid of switch and LED state
+ - added optional binary data structure fill and use of the COMPutMultiByte
+  in the main app loop.  
+ - disable timer usage
+n

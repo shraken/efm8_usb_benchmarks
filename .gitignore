@@ -1,0 +1,4 @@
+.vscode
+bulk/fw/keil/build/*
+bulk/fw/sdcc/build/*
+bulk/sw/build/*
