@@ -2,3 +2,6 @@
 bulk/fw/keil/build/*
 bulk/fw/sdcc/build/*
 bulk/sw/build/*
+interrupt/fw/keil/build/*
+interrupt/fw/sdcc/build/*
+interrupt/sw/build/*
